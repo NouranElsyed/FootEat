@@ -1,5 +1,5 @@
 import Card from "../Main Page/Main/card"
-import "./menu.css"
+import "./Menu.css"
 import meals from "../../Data/meal.json";
 
 const Menu = () => {
