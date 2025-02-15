@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "star": 5,
+        "meal-Name": "Grilled Chicken",
+        "description": "Juicy grilled chicken served with mashed potatoes and steamed vegetables.",
+        "price": 15,
+        "image": "/meals/Grilled Chicken.png",
+        "top": true
+    },
+    {
+        "id": 2,
+        "star": 4,
+        "meal-Name": "Beef Burger",
+        "description": "Classic beef burger with cheddar cheese, lettuce, and tomato, served with fries.",
+        "price": 12,
+        "image": "/meals/Beef Burger.jpg",
+        "top": false
+
+    },
+    {
+        "id": 3,
+        "star": 5,
+        "meal-Name": "Margherita Pizza",
+        "description": "Thin crust pizza topped with fresh mozzarella, basil, and tomato sauce.",
+        "price": 18,
+        "image": "/meals/Margherita Pizza.jpg",
+        "top": false
+    },
+    {
+        "id": 4,
+        "star": 4,
+        "meal-Name": "Pasta Alfredo",
+        "description": "Creamy Alfredo sauce with fettuccine pasta and grilled chicken.",
+        "price": 16,
+        "image": "/meals/Pasta Alfredo.jpg",
+        "top": false
+    },
+    {
+        "id": 5,
+        "star": 5,
+        "meal-Name": "Salmon Steak",
+        "description": "Grilled salmon fillet with lemon butter sauce, served with quinoa salad.",
+        "price": 20,
+        "image": "/meals/Salmon Steak.jpg",
+        "top": true
+    },
+    {
+        "id": 6,
+        "star": 4,
+        "meal-Name": "Caesar Salad",
+        "description": "Fresh romaine lettuce with Caesar dressing, parmesan cheese, and croutons.",
+        "price": 10,
+        "image": "/meals/Caesar Salad.jpg",
+        "top": false
+    },
+    {
+        "id": 7,
+        "star": 5,
+        "meal-Name": "Sushi Platter",
+        "description": "Assorted sushi rolls including California, spicy tuna, and shrimp tempura.",
+        "price": 22,
+        "image": "/meals/Sushi Platter.jpg",
+        "top": false
+    },
+    {
+        "id": 8,
+        "star": 4,
+        "meal-Name": "Shawarma Wrap",
+        "description": "Chicken shawarma wrap with garlic sauce, pickles, and fries.",
+        "price": 11,
+        "image": "/meals/Shawarma Wrap.jpg",
+        "top": false
+    },
+    {
+        "id": 9,
+        "star": 5,
+        "meal-Name": "Lamb Chops",
+        "description": "Grilled lamb chops with rosemary sauce, served with mashed potatoes.",
+        "price": 25,
+        "image": "/meals/Lamb Chops.jpg",
+        "top": true
+    },
+    {
+        "id": 10,
+        "star": 4,
+        "meal-Name": "Taco Trio",
+        "description": "Three tacos with your choice of chicken, beef, or shrimp, topped with fresh salsa.",
+        "price": 14,
+        "image": "/meals/Taco Trio.jpg",
+        "top": false
+    },
+    {
+        "id": 11,
+        "star": 5,
+        "meal-Name": "Butter Chicken",
+        "description": "Indian-style butter chicken curry with basmati rice and naan bread.",
+        "price": 17,
+        "image": "/meals/Butter Chicken.jpg",
+        "top": false
+    },
+    {
+        "id": 12,
+        "star": 4,
+        "meal-Name": "Fish & Chips",
+        "description": "Crispy battered fish fillets served with fries and tartar sauce.",
+        "price": 13,
+        "image": "meals/Fish & Chips.jpg",
+        "top": false
+    },
+    {
+        "id": 13,
+        "star": 5,
+        "meal-Name": "Stuffed Bell Peppers",
+        "description": "Bell peppers filled with seasoned rice, ground beef, and tomato sauce.",
+        "price": 15,
+        "image": "meals/Stuffed Bell Peppers.jpg",
+        "top": false
+    },
+    {
+        "id": 14,
+        "star": 4,
+        "meal-Name": "Eggplant Parmesan",
+        "description": "Breaded eggplant layered with marinara sauce and mozzarella cheese.",
+        "price": 14,
+        "image": "meals/Eggplant Parmesan.jpg",
+        "top": false
+    },
+    {
+        "id": 15,
+        "star": 5,
+        "meal-Name": "BBQ Ribs",
+        "description": "Slow-cooked BBQ ribs served with coleslaw and cornbread.",
+        "price": 21,
+        "image": "meals/BBQ Ribs.jpg",
+        "top": false
+    }
+]
